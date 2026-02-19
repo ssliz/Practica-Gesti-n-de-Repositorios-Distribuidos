@@ -1,0 +1,4 @@
+origen_nube	https://github.com/ssliz/Practica-Gesti-n-de-Repositorios-Distribuidos.git (fetch)
+origen_nube	https://github.com/ssliz/Practica-Gesti-n-de-Repositorios-Distribuidos.git (push)
+servidor_local	../servidor_privado.git (fetch)
+servidor_local	../servidor_privado.git (push)
